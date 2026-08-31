@@ -1,4 +1,4 @@
-# Team Name: _[fill in with your team]_
+# Team Name: AEJ
 
 ## Contributors
 
