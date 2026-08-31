@@ -2,9 +2,9 @@
 
 ## Contributors
 
-- _[Name] — Linear Regression_
-- _[Name] — Logistic Regression_
-- _[Name] — GAM_
+- Alberto — Linear Regression_
+- Ethan — Logistic Regression_
+- Jaideep — GAM
 
 ## Dataset
 
