@@ -1,6 +1,6 @@
 # Team Name: AEJ
 
-## Contributors
+## Contributors (Note Claude was not used as a Contributor for any files but is appearing as a Contributor in GitHub for whatever reason)
 
 - Alberto: Linear Regression
 - Ethan: Logistic Regression
